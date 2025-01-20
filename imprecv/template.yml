@@ -1,25 +1,23 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/jskherman/imprecv/main/cv.typ.schema.json
 
 personal:
-  name: John Smith L. Doe
-  email: johndoe@example.com
-  phone: (+1) 987 6543 210
-  url: https://johndoe.com
+  name: Robin Bilodeau
+  email: rbilo073@uottawa.ca
+  phone: (+1) 613 371 1300
+  url:
   titles:
-    - Software Engineer
-    - Data Analyst
-    - Entrepreneur
+    -
   location:
-    city: New York
-    region: New York
-    country: United States of America
+    city: Ottawa
+    region: Ontario
+    country: Canada
   profiles:
     - network: LinkedIn
-      username: John Doe
-      url: https://linkedin.com/in/johndoe
+      username: RobinBilodeau
+      url: https://linkedin.com/in/RobinBilodeau
     - network: GitHub
-      username: johndoe
-      url: https://github.com/johndoe
+      username: RobinB1lo
+      url: https://github.com/RobinB1lo
 
 work:
   - organization: X Company
