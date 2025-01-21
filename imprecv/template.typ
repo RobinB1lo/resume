@@ -51,10 +51,12 @@
 
 #cvheading(cvdata, uservars)
 #cvwork(cvdata)
-#cveducation(cvdata)
+#let cveducation(cvdata)={
+    
+}
 #cvaffiliations(cvdata)
 #cvprojects(cvdata)
-#cvawards(cvdata)
+//#cvawards(cvdata)
 #cvcertificates(cvdata)
 #cvpublications(cvdata)
 #cvskills(cvdata)
