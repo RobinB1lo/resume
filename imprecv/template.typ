@@ -50,10 +50,8 @@
 #show: doc => cvinit(doc)
 
 #cvheading(cvdata, uservars)
+#cveducation(cvdata)
 #cvwork(cvdata)
-#let cveducation(cvdata)={
-    
-}
 #cvaffiliations(cvdata)
 #cvprojects(cvdata)
 //#cvawards(cvdata)
