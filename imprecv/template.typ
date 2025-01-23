@@ -58,5 +58,5 @@
 #cvcertificates(cvdata)
 #cvpublications(cvdata)
 #cvskills(cvdata)
-#cvreferences(cvdata)
+//#cvreferences(cvdata)
 #endnote(uservars)
