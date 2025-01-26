@@ -26,9 +26,9 @@ work:
         startDate: 2023-04-01
         endDate: 2023-08-30
         highlights:
-          - This being the theory I hold, why need I be afraid of not being able to reconcile it with the case of my ancestors?
-          - "The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
-          - Do you really believe that they charged an armed enemy, or treated their children, their own flesh and blood, so cruelly, without a thought for their own interest or advantage?
+          - Analyzed and modeled 3-statement projections, and acquisition financing scenarios for a 115 million dollar transaction
+          - Assisted in debt structuring for a 10 million dollar convertable note and 2 millon dollar bridge loan
+          - Conducted market research and prepared pitch materials for capital raising, resulting in 250 million dollars of commitments
 
 
 education:
@@ -44,35 +44,26 @@ education:
       - President's List
       - Dean's List
     courses:
-      - Algorithms & Data Structures
-      - Applications in Quantitative Finance
-      - Engineering Data Analysis
-      - Compiler Architecture
+      - Intro to Computing 1
+      - Intro to Computing 2
+      - Linear Algebra
+      - Discrete Mathematics for Computing
+      - Business Analytics
+      - Statistics for Management
     highlights:
       - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
       - "*Activities*: Debating, Chess, Cricket"
 
 affiliations:
-  - organization: White Hat Hackers Association
-    position: Vice President for Internal Affairs
-    location: Cambridge, United Kingdom
+  - organization: Ottawa Sting Hockey
+    position: Assistant Capitain 
+    location: Ottawa, Ontario, Canada
     url: https://example.com
-    startDate: 2020-05-30
-    endDate: 2021-05-30
+    startDate: 2021-09-01
+    endDate: 2023-05-01
     highlights:
-      - But I must explain to you how all this mistaken idea of reprobating pleasure and extolling pain arose.
-      - But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
-      - Can you then suppose that those heroic men performed their famous deeds without any motive at all?
-  - organization: London Bridge Toastmasters Club
-    position: Member
-    location: City of London, United Kingdom
-    url:
-    startDate: 2022-06-15
-    endDate: 2023-06-30
-    highlights:
-      - Won Champion in the Division A District X Speech Evaluation Contest of Toastmasters International
-      - Promising Toastmaster of the Year (PY 2022-2023)
-      - Tell me, pray, what explanation do you put upon their actions?
+      - Led team startegy and fostered strong collaboration, securing 4 victories out of 5 torunaments, and earning a top 10 ranking in Ontario
+      - Acted as a key communicator between coaches and teammates, contributing to team excellence
 
 awards:
   - title: Champion in the Division A District X Speech Evaluation Contest
@@ -104,77 +95,73 @@ publications:
     url: https://example.com
 
 projects:
-  - name: "Job Tailor"
-    url: https://example.com/
-    affiliation: Open University
+  - name: Moving Averages Crossover Strategy
+    url: https://github.com/RobinB1lo/MAcrossoverstrategy
+    affiliation: 
     startDate: 2020-11-01
     endDate: 2021-04-30
     highlights:
-      - Developed an AI-powered résumé editor app to create tailored résumés from users' CVs based on specific job descriptions.
-      - Acquired more than 100,000 user sign ups in 3 months and more than 10,000 active monthly users.
-      - Generated profit of upwards \$20,000 yearly with a team of only four developers and three business operatives
+      - Developed a Python based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
+      - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into risk and profitability of the strategy
+      - Visualized key performance metrics, including stock price trends, moving averages, buy/sell signals, and portfolio performance, using matplotlib for data-driven decision making.
+  - name: QB Touchdown Predictions
+    url: https://github.com/RobinB1lo/qbtouchdownpredictions
+    affiliation: 
+    startDate: 2020-11-01
+    endDate: 2021-04-30
+    highlights:
+      - Built a Python-based linear regression model to predict NFL quarterback touchdowns, using multi-season play-by-play data with advanced feature engineering to improve accuracy.
+      - Evaluated model performance with RMSE and R² metrics and visualized actual vs. predicted results to provide actionable insights.
 
 skills:
   - category: Soft Skills
     skills:
       - Public Speaking
-      - Debating
       - Communication
-      - Critical Thinking
       - Leadership
-      - Persuasive Writing
-      - Technical Writing
   - category: Programming
     skills:
       - Python
-      - SQL, PostgreSQL
-      - MATLAB/Octave
-      - HTML
-      - CSS
-      - Javascript
+      - SQL
+      - Java
       - Typst
-      - LaTeX
   - category: Tools
     skills:
       - Microsoft Word
       - Git
-      - Docker
       - Visual Studio Code
       - Canva
-  - category: Web Development
+  - category: Libraries
     skills:
-      - React
-      - Next.js
-      - million.js
-      - Svelte & Sveltekit
-      - Tailwind CSS
-      - Node.js
-      - Deno
-      - FastAPI
-      - Flask
-  - category: BI & Data Analytics
+      - matplotlib
+      - numpy
+      - Scikit-learn
+      - Jupyter
+      - pandas
+      - Tkinter
+      - yfinance
+  - category: Athletics
     skills:
-      - Microsoft Excel
-      - Microsoft Power BI
-      - Jupyter Notebook
-      - Numpy
-      - Pandas
-      - Plotly
-      - Altair
+      - Boxing
+      - Hockey
+      - Soccer
+      - Volleyball
 
 languages:
   - language: English
     fluency: Native speaker
-  - language: German
+  - language: French
     fluency: Native speaker
-  - language: Japanese
-    fluency: Basic proficiency
+
 
 interests:
-  - Video Games
-  - Anime
-  - Reading Non-fiction
-  - Classical and Original Soundtrack Music
+  - Reading 
+  - Guitar
+  - Movies
+  - Farm/Cottage
+  - Travel
+  - Innovation and Technology
+  - Entrepreneurship
 
 references:
   # You can comment out the entries below if you don't have any references
