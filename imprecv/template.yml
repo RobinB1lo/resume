@@ -27,7 +27,7 @@ work:
         endDate: 2023-08-30
         highlights:
           - Analyzed and modeled 3-statement projections, and acquisition financing scenarios for a 115 million dollar transaction
-          - Assisted in debt structuring for a 10 million dollar convertable note and 2 millon dollar bridge loan
+          - Assisted in debt structuring for a 10 million dollar convertible note and 2 million dollar bridge loan
           - Conducted market research and prepared pitch materials for capital raising, resulting in 250 million dollars of commitments
 
 
@@ -56,13 +56,13 @@ education:
 
 affiliations:
   - organization: Ottawa Sting Hockey
-    position: Assistant Capitain 
+    position: Assistant Captain 
     location: Ottawa, Ontario, Canada
     url: https://example.com
     startDate: 2021-09-01
     endDate: 2023-05-01
     highlights:
-      - Led team startegy and fostered strong collaboration, securing 4 victories out of 5 torunaments, and earning a top 10 ranking in Ontario
+      - Led team strategy and fostered strong collaboration, securing 4 victories out of 5 tournaments, and earning a top 10 ranking in Ontario
       - Acted as a key communicator between coaches and teammates, contributing to team excellence
 
 awards:
@@ -101,8 +101,8 @@ projects:
     startDate: 2020-11-01
     endDate: 2021-04-30
     highlights:
-      - Developed a Python based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
-      - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into risk and profitability of the strategy
+      - Developed a Python-based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
+      - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into the risk and profitability of the strategy
       - Visualized key performance metrics, including stock price trends, moving averages, buy/sell signals, and portfolio performance, using matplotlib for data-driven decision making.
   - name: QB Touchdown Predictions
     url: https://github.com/RobinB1lo/qbtouchdownpredictions
@@ -116,7 +116,7 @@ projects:
 skills:
   - category: Soft Skills
     skills:
-      - Public Speaking
+      - Public Speaking 
       - Communication
       - Leadership
   - category: Programming
