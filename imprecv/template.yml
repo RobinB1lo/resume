@@ -104,14 +104,15 @@ projects:
       - Developed a Python-based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
       - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into the risk and profitability of the strategy
       - Visualized key performance metrics, including stock price trends, moving averages, buy/sell signals, and portfolio performance, using matplotlib for data-driven decision making.
-  - name: QB Touchdown Predictions
-    url: https://github.com/RobinB1lo/qbtouchdownpredictions
+  - name: OrderBook Implementation for Financial Markets 
+    url: https://github.com/RobinB1lo/orderbook
     affiliation: 
     startDate: 2020-11-01
     endDate: 2021-04-30
     highlights:
-      - Built a Python-based linear regression model to predict NFL quarterback touchdowns, using multi-season play-by-play data with advanced feature engineering to improve accuracy.
-      - Evaluated model performance with RMSE and R² metrics and visualized actual vs. predicted results to provide actionable insights.
+      - Designed and implemented a Python-based order book system to simulate financial market operations, including bid/ask matching, trade execution, and order cancellation.
+      - Utilized efficient data structures (e.g., dictionaries, sorted lists with bisect) to manage buy/sell orders and ensure optimal performance for high-frequency trading scenarios.
+      - Integrated real-time trade logging and visualization capabilities to track market activity and analyze order flow dynamics.
 
 skills:
   - category: Soft Skills
