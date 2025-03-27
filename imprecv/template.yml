@@ -110,9 +110,9 @@ projects:
     startDate: 2020-11-01
     endDate: 2021-04-30
     highlights:
-      - Designed and implemented a Python-based order book system to simulate financial market operations, including bid/ask matching, trade execution, and order cancellation.
-      - Utilized efficient data structures (e.g., dictionaries, sorted lists with bisect) to manage buy/sell orders and ensure optimal performance for high-frequency trading scenarios.
-      - Integrated real-time trade logging and visualization capabilities to track market activity and analyze order flow dynamics.
+      - Developed a real-time order book system using FastAPI to handle order placement, trade execution, and order cancellation with low-latency API responses.
+      - Implemented Enums (StrEnum) to enforce consistency in order types (LIMIT, MARKET, FOK) and order sides (BUY, SELL), improving code maintainability.
+      - Integrated Yahoo Finance API for real-time price fetching and enabled seamless interaction between the back-end and front-end via CORS and static file hosting.
 
 skills:
   - category: Soft Skills
