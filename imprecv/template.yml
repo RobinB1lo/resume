@@ -21,7 +21,7 @@ work:
   - organization: Westmount Capital Partners
     url: https://example.com
     location: Ottawa, Ontario, Canada 
-    positions:
+    positions: 
       - position: Investment Banking Analyst
         startDate: 2023-04-01
         endDate: 2023-08-30
@@ -55,15 +55,15 @@ education:
       - "*Activities*: Debating, Chess, Cricket"
 
 affiliations:
-  - organization: Ottawa Sting Hockey
-    position: Assistant Captain 
+  - organization: IMC Prosperity Trading Comptetition
+    position: Team lead 
     location: Ottawa, Ontario, Canada
     url: https://example.com
-    startDate: 2021-09-01
-    endDate: 2023-05-01
+    startDate: 2025-04-01
+    endDate: 2025-05-01
     highlights:
-      - Led team strategy and fostered strong collaboration, securing 4 victories out of 5 tournaments, and earning a top 10 ranking in Ontario
-      - Acted as a key communicator between coaches and teammates, contributing to team excellence
+      - Developed and implemented multiple algorithmic trading strategies, including market making, an ETF mispricing strategy using the Kelly criterion, and a Black–Scholes neutral delta options strategy
+      - Engineered robust, adaptive algorithms to exploit market microstructure inefficiencies and option pricing dynamics, showcasing advanced capabilities in risk management, statistical modeling (using NumPy and similar libraries), and algorithm optimization across diverse asset classes
 
 awards:
   - title: Champion in the Division A District X Speech Evaluation Contest
