@@ -95,15 +95,6 @@ publications:
     url: https://example.com
 
 projects:
-  - name: Moving Averages Crossover Strategy
-    url: https://github.com/RobinB1lo/MAcrossoverstrategy
-    affiliation: 
-    startDate: 2020-11-01
-    endDate: 2021-04-30
-    highlights:
-      - Developed a Python-based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
-      - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into the risk and profitability of the strategy
-      - Visualized key performance metrics, including stock price trends, moving averages, buy/sell signals, and portfolio performance, using matplotlib for data-driven decision making.
   - name: OrderBook Implementation for Financial Markets 
     url: https://github.com/RobinB1lo/orderbook
     affiliation: 
@@ -113,6 +104,16 @@ projects:
       - Developed a real-time order book system using FastAPI to handle order placement, trade execution, and order cancellation with low-latency API responses.
       - Implemented Enums (StrEnum) to enforce consistency in order types (LIMIT, MARKET, FOK) and order sides (BUY, SELL), improving code maintainability.
       - Integrated Yahoo Finance API for real-time price fetching and enabled seamless interaction between the back-end and front-end via CORS and static file hosting.
+  - name: Moving Averages Crossover Strategy
+    url: https://github.com/RobinB1lo/MAcrossoverstrategy
+    affiliation: 
+    startDate: 2020-11-01
+    endDate: 2021-04-30
+    highlights:
+      - Developed a Python-based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
+      - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into the risk and profitability of the strategy
+      - Visualized key performance metrics, including stock price trends, moving averages, buy/sell signals, and portfolio performance, using matplotlib for data-driven decision making.
+  
 
 skills:
   - category: Soft Skills
