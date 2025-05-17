@@ -30,6 +30,18 @@ work:
           - Assisted in debt structuring for a 10 million dollar convertible note and 2 million dollar bridge loan
           - Conducted market research and prepared pitch materials for capital raising, resulting in 250 million dollars of commitments
 
+research:
+- organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
+  url: 
+  location: Ottawa, Ontario, Canada 
+  positions: 
+    - position: Undergraduate Researcher
+      startDate: 2025-04-01
+      endDate: 
+      highlights:
+       - Collaborated with a Professor to architect a rigorous benchmarking suite, curating diverse synthetic and real world datasets and formalizing metrics, cluster stability, and confidence interval accuracy for systematic evaluation of new algorithm variants.
+       
+       
 
 education:
   - institution: University of Ottawa 
@@ -87,12 +99,6 @@ certificates:
     issuer: Coursera
     url: https://example.com
     id: "1MPR3CVR3SUM3"
-
-publications:
-  - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
-    publisher: Theoretical and Computational Fluid Dynamics
-    releaseDate: 2020-09-30
-    url: https://example.com
 
 projects:
   - name: OrderBook Implementation for Financial Markets 
