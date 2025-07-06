@@ -48,7 +48,7 @@ research:
       endDate: 
       highlights:
       - Developed a Monte Carlo sampling framework to repeatedly adjust probability rank matrices, yielding statistically stable core-distance estimates for clustering high-noise data leading to reduced sensitivity to outliers and improved cluster detection reliability
-      - Participated in the implemented of a fast Fourier-based deconvolution estimator to recover underlying data distributions from noise-contaminated observations, enhancing core distance estimates for robust HDBSCAN clustering
+      - Implemented a fast Fourier-based deconvolution estimator to recover underlying data distributions from noise-contaminated observations, enhancing core distance estimates for robust HDBSCAN clustering
         
 education:
   - institution: University of Ottawa 
