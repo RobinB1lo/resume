@@ -47,6 +47,8 @@ research:
       startDate: 2025-04-01
       endDate: 
       highlights:
+      - Developed a Monte Carlo sampling framework to repeatedly adjust probability rank matrices, yielding statistically stable core-distance estimates for clustering high-noise data leading to reduced sensitivity to outliers and improved cluster detection reliability
+      - Participated in the implemented of a fast Fourier-based deconvolution estimator to recover underlying data distributions from noise-contaminated observations, enhancing core distance estimates for robust HDBSCAN clustering
         
 education:
   - institution: University of Ottawa 
@@ -115,16 +117,6 @@ projects:
       - Developed a real-time order book system using FastAPI to handle order placement, trade execution, and order cancellation with low-latency API responses.
       - Implemented Enums (StrEnum) to enforce consistency in order types (LIMIT, MARKET, FOK) and order sides (BUY, SELL), improving code maintainability.
       - Integrated Yahoo Finance API for real-time price fetching and enabled seamless interaction between the back-end and front-end via CORS and static file hosting.
-  - name: Moving Averages Crossover Strategy
-    url: https://github.com/RobinB1lo/MAcrossoverstrategy
-    affiliation: 
-    startDate: 2020-11-01
-    endDate: 2021-04-30
-    highlights:
-      - Developed a Python-based simulator to analyze trading strategies using moving averages crossover techniques, integrating stock market data via the yfinance library
-      - Implemented a dynamic portfolio simulation module that calculates holdings, cash balances, and portfolio returns, offering insights into the risk and profitability of the strategy
-      - Visualized key performance metrics, including stock price trends, moving averages, buy/sell signals, and portfolio performance, using matplotlib for data-driven decision making.
-  
 
 skills:
   # - category: Soft Skills
