@@ -26,17 +26,6 @@ work:
         startDate: 2025-09-01
         endDate: present
         highlights:
-    
-  - organization: Westmount Capital Partners
-    url: https://example.com
-    location: Ottawa, Ontario, Canada 
-    positions: 
-      - position: Investment Banking Intern
-        startDate: 2024-07-01
-        endDate: 2024-11-30
-        highlights:
-          - Assisted in debt structuring for a 10 million dollar convertible note and 2 million dollar bridge loan
-          - Participated in market research and prepared pitch materials for capital raising, resulting in 250 million dollars of commitments
 
 research:
 - organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
@@ -128,6 +117,7 @@ skills:
     skills:
       - Python
       - Java
+      - C++
       - Typst
   - category: Tools
     skills:
