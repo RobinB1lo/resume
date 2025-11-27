@@ -142,7 +142,7 @@ skills:
       - Volleyball
   - category: Clubs
     skills:
-      - Mathematics Club, Putnam Club, Undergraduate Research Club
+      - Mathematics Club # , Putnam Club, Undergraduate Research Club
 
 languages:
   - language: English
