@@ -26,6 +26,9 @@ work:
         startDate: 2025-09-01
         endDate: present
         highlights:
+        - Refactored a legacy pricing process into a modular architecture supporting multiple rates derivatives, including swaps, swaptions, caps, and floors
+        - Optimized performance bottlenecks in core analytical functions, leading to substantial runtime improvements
+        - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity
 
 research:
 - organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
