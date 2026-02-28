@@ -31,6 +31,15 @@ work:
         - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity
 
 research:
+- organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
+  url: 
+  location: Ottawa, Ontario, Canada 
+  positions: 
+    - position: Undergraduate Researcher
+      startDate: 2026-02-01
+      endDate: present
+      highlights:
+      - Abstract submitted to Earth 2026 Conference (under review)
 - organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
   url: 
   location: Ottawa, Ontario, Canada 
@@ -41,7 +50,6 @@ research:
       highlights:
       - Developed a Monte Carlo sampling framework to repeatedly adjust probability rank matrices, yielding statistically stable core-distance estimates for clustering high-noise data leading to reduced sensitivity to outliers and improved cluster detection reliability
       - Coordinated a fast Fourier-based deconvolution estimator to recover underlying data distributions from noise-contaminated observations, enhancing core distance estimates for robust HDBSCAN clustering
-        
 education:
   - institution: University of Ottawa 
     url: https://example.com/
@@ -58,9 +66,10 @@ education:
       - Intro to Computing 1
       - Intro to Computing 2
       - Linear Algebra
-      - Discrete Mathematics for Computing
-      - Business Analytics
-      - Statistics for Management
+      - Differential Equations and Laplace
+      - Discrete Structures
+      - Discrete Math
+      - Group Theory
     highlights:
       - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
       - "*Activities*: Debating, Chess, Cricket"
