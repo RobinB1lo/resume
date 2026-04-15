@@ -29,6 +29,15 @@ work:
         - Refactored a legacy pricing process into a modular architecture supporting multiple rates derivatives, including swaps, swaptions, caps, and floors
         - Optimized performance bottlenecks in core analytical functions, leading to substantial runtime improvements
         - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity
+  - organization: TutorBright
+    url: https://example.com
+    location: Ottawa, Ontario, Canada 
+    positions: 
+      - position: Tutor Mentor
+        startDate: 2024-09-01
+        endDate: 2024-12-01
+        highlights:
+        - Tutoring high school students in mathematics, and computer science, helping them improve their understanding and performance in these subjects
 
 research:
 - organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
