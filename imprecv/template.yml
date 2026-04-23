@@ -91,7 +91,7 @@ affiliations:
     startDate: 2025-04-01
     endDate: 2025-05-01
     highlights:
-      - Developed and implemented multiple algorithmic trading strategies, including market making, an ETF mispricing strategy using the Kelly criterion, and a Black–Scholes neutral delta options strategy
+      - Developed and implemented multiple algorithmic trading strategies, including market making, an ETF mispricing strategy using the Kelly criterion, and a Black–Scholes delta-neutral options strategy
       - Engineered robust, adaptive algorithms to exploit market microstructure inefficiencies and option pricing dynamics, showcasing advanced capabilities in risk management, statistical modeling (using NumPy and similar libraries), and algorithm optimization across diverse asset classes
 
 awards:
