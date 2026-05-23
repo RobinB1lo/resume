@@ -37,7 +37,7 @@ work:
         highlights:
         - Refactored a legacy pricing process into a modular architecture supporting multiple rates derivatives, including swaps, swaptions, caps, and floors
         - Optimized performance bottlenecks in core analytical functions, leading to substantial runtime improvements
-        - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity
+        - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity, and visualized discrepancy differences across products to communicate findings clearly
 
 research:
 - organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
@@ -48,7 +48,7 @@ research:
       startDate: 2026-02-01
       endDate: present
       highlights:
-      - Abstract submitted to Earth 2026 Conference (under review)
+      - Abstract accepted to Earth 2026 Conference
 - organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
   url: 
   location: Ottawa, Ontario, Canada 
@@ -84,15 +84,15 @@ education:
       - "*Activities*: Debating, Chess, Cricket"
 
 affiliations:
-  - organization: IMC Prosperity Trading Competition
-    position: Team lead 
-    location: Ottawa, Ontario, Canada
-    url: https://example.com
-    startDate: 2025-04-01
-    endDate: 2025-05-01
+  - organization: SSC Case Study Competition - Parkinson's Disease Classification
+    position: Team Member
+    location: Hamilton, Ontario, Canada
+    url:
+    startDate: 2026-04-01
+    endDate: Present
     highlights:
-      - Developed and implemented multiple algorithmic trading strategies, including market making, an ETF mispricing strategy using the Kelly criterion, and a Black–Scholes delta-neutral options strategy
-      - Engineered robust, adaptive algorithms to exploit market microstructure inefficiencies and option pricing dynamics, showcasing advanced capabilities in risk management, statistical modeling (using NumPy and similar libraries), and algorithm optimization across diverse asset classes
+      - Performed end-to-end data cleaning on a high-dimensional clinical dataset (500+ variables) from the Canadian Open Parkinson Network (C-OPN), including leakage analysis to identify and remove variables that directly encode diagnostic criteria for PD vs. atypical parkinsonism, and outcome-stratified MICE imputation to handle missing data
+      - Developed a random forest classifier achieving greater than 95% accuracy in distinguishing Parkinson's disease from atypical parkinsonism syndromes, using stratified k-fold cross-validation with fold splitting prior to imputation
 
 awards:
   - title: Champion in the Division A District X Speech Evaluation Contest
@@ -137,6 +137,7 @@ skills:
   - category: Programming
     skills:
       - Python
+      - R
       - Java
       - Typst
       - C++ (Beginner)
@@ -153,7 +154,6 @@ skills:
       - numpy
       - Scikit-learn
       - pandas
-      - Tkinter
       - yfinance
   - category: Athletics
     skills:
