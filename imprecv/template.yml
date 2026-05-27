@@ -26,7 +26,7 @@ work:
         startDate: 2026-02-01
         endDate: Present
         highlights:
-        - Tutoring high school students in mathematics, and computer science, helping them improve their understanding and performance in these subjects
+        - Tutoring students in mathematics, and computer science, helping them improve their understanding and performance in these subjects
   - organization: Scotiabank - Global Banking and Markets
     url: https://example.com
     location: Toronto, Ontario, Canada 
@@ -40,15 +40,15 @@ work:
         - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity, and visualized discrepancy differences across products to communicate findings clearly
 
 research:
-- organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
-  url: 
-  location: Ottawa, Ontario, Canada 
-  positions: 
-    - position: Undergraduate Researcher
-      startDate: 2026-02-01
-      endDate: present
-      highlights:
-      - Abstract accepted to Earth 2026 Conference
+# - organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
+#   url: 
+#   location: Ottawa, Ontario, Canada 
+#   positions: 
+#     - position: Undergraduate Researcher
+#       startDate: 2026-02-01
+#       endDate: present
+#       highlights:
+#       - Abstract accepted to Earth 2026 Conference
 - organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
   url: 
   location: Ottawa, Ontario, Canada 
@@ -77,8 +77,8 @@ education:
       - Linear Algebra
       - Differential Equations and Laplace Transforms
       - Discrete Structures
-      - Discrete Math
-      - Group Theory
+      - Elementary Real Analysis
+      - Introduction to probability
     highlights:
       - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
       - "*Activities*: Debating, Chess, Cricket"
@@ -89,7 +89,7 @@ affiliations:
     location: Hamilton, Ontario, Canada
     url:
     startDate: 2026-04-01
-    endDate: Present
+    endDate: 2026-06-01
     highlights:
       - Performed end-to-end data cleaning on a high-dimensional clinical dataset (500+ variables) from the Canadian Open Parkinson Network (C-OPN), including leakage analysis to identify and remove variables that directly encode diagnostic criteria for PD vs. atypical parkinsonism, and outcome-stratified MICE imputation to handle missing data
       - Developed a random forest classifier achieving greater than 95% accuracy in distinguishing Parkinson's disease from atypical parkinsonism syndromes, using stratified k-fold cross-validation with fold splitting prior to imputation
@@ -163,7 +163,7 @@ skills:
       - Volleyball
   - category: Clubs
     skills:
-      - Mathematics Club # , Putnam Club, Undergraduate Research Club
+      - Mathematics Club, Undergraduate Research Club
 
 languages:
   - language: English
