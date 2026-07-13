@@ -18,7 +18,7 @@ personal:
       url: https://github.com/RobinB1lo
 
 work:
-  - organization: Scotiabank - Global Banking and Markets
+  - organization: Scotiabank - Global Markets
     url: https://example.com
     location: Toronto, Ontario, Canada 
     positions: 
@@ -48,8 +48,8 @@ research:
       startDate: 2026-02-01
       endDate: present
       highlights:
-      - Abstract accepted to Earth 2026 Conference
       - Developing and extending the GMDH algorithm to produce an interpretable, self-organizing machine learning pipeline for wildfire susceptibility detection
+      - Abstract accepted to Earth 2026 Conference
 - organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
   url: 
   location: Ottawa, Ontario, Canada 
@@ -88,7 +88,7 @@ affiliations:
   - organization: SSC Case Study Competition - Parkinson's Disease Classification
     position: Team Member
     location: Hamilton, Ontario, Canada
-    url:
+    url: https://drive.google.com/file/d/1hD6m0UV-2pLM1-8okyu9hifWIut2EOG5/view?usp=sharing
     startDate: 2026-04-01
     endDate: 2026-06-01
     highlights:
@@ -119,15 +119,15 @@ certificates:
     id: "1MPR3CVR3SUM3"
 
 projects:
-  - name: RobinBook an Interactive Limit Order Book Simulation
-    url: https://github.com/RobinB1lo/orderbook
-    affiliation:
-    startDate: 2020-11-01
-    endDate: 2021-04-30
-    highlights:
-      - Built a real-time limit order book engine in FastAPI supporting LIMIT, MARKET, and FOK order types with price-time priority matching, live Yahoo Finance price feeds, and per-symbol independent book instances for TSLA, AAPL, and GOOG
-      - Leveraged Python's bisect module to maintain sorted bid/ask price levels, significantly improving insert and search performance over naive list operations across high-frequency order flow
-      - Designed and deployed five autonomous trading bots simulating distinct market participant archetypes (market maker, trend follower, institutional whale, noise trader, and an HFT bot whose core signal logic is written in C++ and called via ctypes for sub-second latency
+  # - name: RobinBook an Interactive Limit Order Book Simulation
+  #   url: https://github.com/RobinB1lo/orderbook
+  #   affiliation:
+  #   startDate: 2020-11-01
+  #   endDate: 2021-04-30
+  #   highlights:
+  #     - Built a real-time limit order book engine in FastAPI supporting LIMIT, MARKET, and FOK order types with price-time priority matching, live Yahoo Finance price feeds, and per-symbol independent book instances for TSLA, AAPL, and GOOG
+  #     - Leveraged Python's bisect module to maintain sorted bid/ask price levels, significantly improving insert and search performance over naive list operations across high-frequency order flow
+  #     - Designed and deployed five autonomous trading bots simulating distinct market participant archetypes (market maker, trend follower, institutional whale, noise trader, and an HFT bot whose core signal logic is written in C++ and called via ctypes for sub-second latency
 skills:
   # - category: Soft Skills
   #   skills:
