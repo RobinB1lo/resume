@@ -39,7 +39,8 @@ research:
       startDate: 2026-02-01
       endDate: present
       highlights:
-      - Implementing a zero-knowledge proof system over Pedersen commitments enabling privacy-preserving equality testing on hidden attributes, combining digital signatures, hashing, and authenticated encryption
+      - Designed and implemented a zero-knowledge proof system over Pedersen commitments enabling privacy-preserving equality testing on hidden attributes
+      - Migrated the protocol's key exchange and signatures to post-quantum primitives (Kyber768 KEM, Dilithium3), replacing classical Diffie-Hellman and Ed25519 while preserving mutual authentication
 - organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
   url:
   location: Ottawa, Ontario, Canada
