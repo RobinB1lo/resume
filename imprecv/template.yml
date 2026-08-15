@@ -31,36 +31,42 @@ work:
         - Conducted in-depth testing and investigation of pricing models to identify product-dependent discrepancies and assess model validity, and visualized discrepancy differences across products to communicate findings clearly
 
 research:
-- organization: Privacy-Preserving Zero-Knowledge Credential Protocol
+- organization: Privacy-Preserving Zero-Knowledge Credential Protocol — Advised by Prof. Adams
   url:
   location: Ottawa, Ontario, Canada
   positions:
     - position: Undergraduate Researcher
+      advisor: Prof. Adams
       startDate: 2026-02-01
       endDate: present
       highlights:
-      - Designed and implemented a zero-knowledge proof system over Pedersen commitments enabling privacy-preserving equality testing on hidden attributes
-      - Migrated the protocol's key exchange and signatures to post-quantum primitives (Kyber768 KEM, Dilithium3), replacing classical Diffie-Hellman and Ed25519 while preserving mutual authentication
-- organization: A Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta
+      - Designed and implemented a zero-knowledge proof protocol over Pedersen commitments enabling privacy-preserving equality testing on hidden attributes without credential disclosure
+      # - Integrated digital signatures, cryptographic hashing, and authenticated encryption to achieve semantic security while maintaining verifiability across distributed parties
+      # - Migrated the protocol's key exchange and signatures to post-quantum primitives (Kyber768 KEM, Dilithium3), replacing classical Diffie-Hellman and Ed25519 while preserving mutual authentication
+
+- organization: Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta — Advised by Prof. Bonakdari
   url:
   location: Ottawa, Ontario, Canada
   positions:
     - position: Undergraduate Researcher
+      advisor: Prof. Bonakdari
       startDate: 2026-02-01
       endDate: present
       highlights:
-      - Developing and extending the GMDH algorithm to produce an interpretable, self-organizing machine learning pipeline for wildfire susceptibility detection
-      - Abstract accepted to Earth 2026 Conference
-- organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering
+      - Implemented and compared 13 variants of the Group Method of Data Handling (GMDH) self-organizing algorithm for interpretable wildfire susceptibility detection
+      - Designed novel fractional-polynomial, basis-function, and look-back GMDH architectures to achieve superior balance between predictive accuracy and interpretability
+
+- organization: Uncertainty-Aware Statistical Extensions for HDBSCAN Clustering — Advised by Prof. Smith
   url: 
   location: Ottawa, Ontario, Canada 
   positions: 
     - position: Undergraduate Researcher
+      advisor: Prof. Smith
       startDate: 2025-04-01
       endDate: 2025-10-01
       highlights:
-      - Developed a Monte Carlo sampling framework to repeatedly adjust probability rank matrices, yielding statistically stable core-distance estimates for clustering high-noise data leading to reduced sensitivity to outliers and improved cluster detection reliability
-      - Coordinated a fast Fourier-based deconvolution estimator to recover underlying data distributions from noise-contaminated observations, enhancing core distance estimates for robust HDBSCAN clustering
+      - Developed a Monte Carlo sampling framework to repeatedly adjust probability rank matrices, yielding statistically stable core-distance estimates for clustering high-noise data, reducing sensitivity to outliers and improving cluster detection reliability
+      - Designed a fast Fourier-based deconvolution estimator to recover underlying data distributions from noise-contaminated observations, enhancing core distance estimates for robust HDBSCAN clustering
 education:
   - institution: University of Ottawa 
     url: https://example.com/
