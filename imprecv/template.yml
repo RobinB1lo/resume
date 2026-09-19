@@ -37,7 +37,7 @@ research:
   positions:
     - position: Undergraduate Researcher
       advisor: Prof. Adams
-      startDate: 2026-02-01
+      startDate: 2026-05-01
       endDate: present
       highlights:
       - Designed and implemented a zero-knowledge proof protocol over Pedersen commitments enabling privacy-preserving equality testing on hidden attributes without credential disclosure
