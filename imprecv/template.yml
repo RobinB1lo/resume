@@ -18,7 +18,7 @@ personal:
       url: https://github.com/RobinB1lo
 
 work:
-  - organization: Scotiabank - Global Markets
+  - organization: Scotiabank —  Global Markets
     url: https://example.com
     location: Toronto, Ontario, Canada 
     positions: 
@@ -41,8 +41,7 @@ research:
       endDate: present
       highlights:
       - Designed and implemented a zero-knowledge proof protocol over Pedersen commitments enabling privacy-preserving equality testing on hidden attributes without credential disclosure
-      # - Integrated digital signatures, cryptographic hashing, and authenticated encryption to achieve semantic security while maintaining verifiability across distributed parties
-      # - Migrated the protocol's key exchange and signatures to post-quantum primitives (Kyber768 KEM, Dilithium3), replacing classical Diffie-Hellman and Ed25519 while preserving mutual authentication
+      - Constructed a multi-scenario threat model for the protocol, enumerating adversarial conditions across trust levels and derived mitigations including stateless handshake design, ephemeral signing key separation, and Curve25519 cofactor clamping
 
 - organization: Data-Driven Assessment of Machine Learning Models for Climate-Sensitive Wildfire Susceptibility in Alberta — Advised by Prof. Bonakdari
   url:
@@ -175,9 +174,9 @@ skills:
 
 languages:
   - language: English
-    fluency: Native speaker
+    fluency: Fluent
   - language: French
-    fluency: Native speaker
+    fluency: Native
 
 interests:
   - Reading 
